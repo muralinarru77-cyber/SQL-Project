@@ -81,3 +81,25 @@ Weight is in units kg. Height is in units cm.
 Show only the patients who has a diagnosis as &#39;Epilepsy&#39; and the doctor&#39;s first
 name is &#39;Lisa&#39;. Check patients, admissions, and doctors tables for required
 information.
+
+
+## Process
+## Problem Understanding
+## The objective of this project is to analyze a medical dataset using SQL by:
+Extracting patient information
+Identifying patterns in admissions
+Performing data cleaning and transformation
+Generating meaningful insights
+## Data Exploration & Cleaning
+## Before running queries, the dataset was explored for:
+Missing values (e.g., allergies IS NULL)
+Data types (dates, integers, strings)
+Inconsistencies (e.g., null allergies replaced with 'NKA')
+## This project demonstrates:
+Strong SQL fundamentals
+Ability to clean and transform real-world data
+Analytical thinking using database queries
+## It provides actionable insights for:
+Patient care improvement
+Hospital management decisions
+Health trend analysis
