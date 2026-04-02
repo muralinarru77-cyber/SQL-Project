@@ -85,21 +85,35 @@ information.
 
 ## Process
 ## Problem Understanding
-## The objective of this project is to analyze a medical dataset using SQL by:
+## The objective of this project is to analyze a medical dataset using SQL by
 Extracting patient information
 Identifying patterns in admissions
 Performing data cleaning and transformation
 Generating meaningful insights
 ## Data Exploration & Cleaning
-## Before running queries, the dataset was explored for:
+## Before running queries, the dataset was explored for
 Missing values (e.g., allergies IS NULL)
 Data types (dates, integers, strings)
 Inconsistencies (e.g., null allergies replaced with 'NKA')
-## This project demonstrates:
+## This project demonstrates
 Strong SQL fundamentals
 Ability to clean and transform real-world data
 Analytical thinking using database queries
-## It provides actionable insights for:
+## It provides actionable insights for
 Patient care improvement
 Hospital management decisions
 Health trend analysis
+
+## Key Insights
+•	Patient demographics (male vs female distribution) 
+•	Admission trends (same-day discharge cases) 
+•	Geographic distribution (city/province analysis) 
+•	Health indicators (BMI / obesity detection) 
+•	Repeat admissions for same diagnosis 
+•	Common allergies ranked by frequency 
+
+## Final Conclution
+This project highlights how SQL alone can be a powerful tool for data analysis, even without advanced tools. By transforming raw medical data into actionable insights, it lays the foundation for further enhancements such as
+Dashboard creation (Power BI / Tableau)
+Predictive analytics in healthcare
+Real-time data integration
